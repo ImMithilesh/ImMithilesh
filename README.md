@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **iammoney190@gmail.com** For Collaboration/Project or Anyt
 - 🌱 **I’m currently learning:** backend
 - 📫 **How to reach me:** iammoney190@gmail.com 
 - 😄 **Pronouns:** Mithilesh
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** The First Computer Bug Was an Actual Bug...
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ImMithilesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
