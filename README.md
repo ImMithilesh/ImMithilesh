@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Mithilesh Joshi
 **AWS || Java || Uttarakhand, IN**
 
-- 😄 **Pronouns:** Mithilesh
-- ⚡ **Fun fact:** The First Computer Bug Was an Actual Bug...
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ImMithilesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
