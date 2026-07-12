@@ -1,11 +1,6 @@
 # 💫 Hi 👋, I'm Mithilesh Joshi
 **AWS || Java || Uttarakhand, IN**
 
-Email Me 👉 ✉️ **iammoney190@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** AI
-- 🌱 **I’m currently learning:** backend
-- 📫 **How to reach me:** iammoney190@gmail.com 
 - 😄 **Pronouns:** Mithilesh
 - ⚡ **Fun fact:** The First Computer Bug Was an Actual Bug...
   ## 🏆 GitHub Trophies
